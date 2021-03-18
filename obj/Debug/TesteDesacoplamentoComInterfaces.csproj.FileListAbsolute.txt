@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\bin\Debug\TesteDesacoplamentoComInterfaces.exe.config
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\bin\Debug\TesteDesacoplamentoComInterfaces.exe
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\bin\Debug\TesteDesacoplamentoComInterfaces.pdb
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\obj\Debug\TesteDesacoplamentoComInterfaces.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\obj\Debug\TesteDesacoplamentoComInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\obj\Debug\TesteDesacoplamentoComInterfaces.exe
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteDesacoplamentoComInterfaces\obj\Debug\TesteDesacoplamentoComInterfaces.pdb
